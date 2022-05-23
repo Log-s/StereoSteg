@@ -20,7 +20,7 @@ Encoding can take up to a few minutes depending on the input file's size.
 python3 stereoSteg_decode.py two_channaled_input.wav
 ```
 
-## Examples
+## Example
 
 ```
 ╭─log_s@precision ~ ‹main●› 
